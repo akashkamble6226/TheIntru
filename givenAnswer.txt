@@ -1,0 +1,6 @@
+class
+object
+instance
+capsulation
+defined
+form
